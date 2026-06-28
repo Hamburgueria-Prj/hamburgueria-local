@@ -187,24 +187,6 @@ docs: atualiza README com fluxo de trabalho
 
 ---
 
-## 🍔 Divisão de Telas
-
-### Cardápio — Devs 1 e 2
-> Gestão completa de produtos, preços e categorias de alimentos.
-
-Branch: `feature/cardapio`
-
-### 🛒 Pedidos — Devs 3 e 4
-> Tela de registro de vendas rápidas com integração em tempo real.
-
-Branch: `feature/pedidos`
-
-### 📊 Dashboard — Devs 5 e 6
-> Visão geral de vendas do dia e itens mais vendidos.
-
-Branch: `feature/dashboard`
-
----
 
 ## ⚡ Comandos Rápidos
 
@@ -227,6 +209,6 @@ git diff
 
 ---
 
-## ❓ Dúvida?
+
 
 Chame no grupo antes de forçar qualquer push! 
